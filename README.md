@@ -1,1 +1,1 @@
-sorting algo
+sorting with style
